@@ -33,7 +33,6 @@
         </dix>
       </div>
     </div>
-
 <nav class="navbar navbar-expand-md navbar-light my-3">
   <div class="container">
     <div class="navbar-brand">
@@ -56,12 +55,21 @@
     </div>
   </div>
 </nav>
-    
   </header>
+
+  <?php
+    $getApp = filter_input(INPUT_GET, 'app',FILTER_SANITIZE_STRIPPED);
+    if(empty($getApp)){
+      require 'widget/home.php';
+    }elseif(!empty($getApp) && file_exists('widget/'. $getApp . '.php')){
+      require 'widget/'. $getApp . '.php';
+    }else {
+      'Oooops, erro no app informado!';
+    }
+  ?>
 
   <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
   <script src="node_modules/jquery/dist/jquery.min.js"></script>
-  
-</body>
 
+</body>
 </html>
