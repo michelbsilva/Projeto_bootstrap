@@ -9,6 +9,7 @@
 
   <link rel="stylesheet" href="_cdn/css/bootstrap_person.css">
   <link rel="stylesheet" href="_cdn/css/app.css">
+  <link rel="stylesheet" href="node_modules/bootstrap-select/dist/css/bootstrap-select.min.css">
 </head>
 
 <body>
@@ -68,8 +69,10 @@
     }
   ?>
 
-  <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
   <script src="node_modules/jquery/dist/jquery.min.js"></script>
+  <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="node_modules/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
+  <script src="node_modules/bootstrap-select/dist/js/i18n/defaults-pt_BR.min.js"></script>
 
 </body>
 </html>

@@ -9,3 +9,14 @@
         </div>
     </div>
 </div>
+
+<form action="">
+    <div class="form-group">
+        <label for="">Teste</label>
+        <select name="teste" class="selectpicker">
+            <option value="">Teste 1</option>
+            <option value="">Teste 2</option>
+            <option value="">Teste 3</option>
+        </select>
+    </div>
+</form>
