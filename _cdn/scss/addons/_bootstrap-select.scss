@@ -1,0 +1,15 @@
+@import "../../../node_modules/bootstrap-select/sass/bootstrap-select";
+
+.dropdown-item.active, .dropdown-item:active{
+    background-color: $color-front-default;
+}
+.bootstrap-select > .dropdown-toggle.bs-placeholder, .bootstrap-select > .dropdown-toggle.bs-placeholder:hover, .bootstrap-select > .dropdown-toggle.bs-placeholder:focus, .bootstrap-select > .dropdown-toggle.bs-placeholder:active {
+    outline: none !important;
+}
+
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn){
+    width: 100%;
+}
+.bs-ok-default{
+    color: $color-front-default;
+}

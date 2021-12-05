@@ -9,8 +9,8 @@
   "author": "Michel Barros",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.1.3",
-    "bootstrap-select": "^1.13.18",
+    "bootstrap": "^4.6.1",
+    "bootstrap-select": "^1.14.0-beta2",
     "jquery": "^3.6.0"
   }
 }
