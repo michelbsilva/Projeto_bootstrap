@@ -24,8 +24,7 @@
                 </div>
                 <div class="form-group col-12 col-sm-6 col-lg-3">
                     <label for="search" class="mb-2"><b>O que você quer?</b></label>
-                    <select name="search" id="search" class="selectpicker" title="Escolha..." multiple
-                        data-actions-box="true">
+                    <select name="search" id="search" class="selectpicker" title="Escolha..." multiple data-actions-box="true">
                         <option value="">Alugar</option>
                         <option value="">Comprar</option>
                     </select>
@@ -95,8 +94,7 @@
         <div class="main_list_group_items mt-5 d-flex justify-content-around row">
             <article class="col-12 col-md-6 col-lg-4 main_list_group_items-item mb-4">
                 <a href="#">
-                    <div class="d-flex align-items-center justify-content-center"
-                        style="background: url('assets/images/home/cobertura_oto_1.jpg') no-repeat; background-size:cover;">
+                    <div class="d-flex align-items-center justify-content-center" style="background: url('assets/images/home/cobertura_oto_1.jpg') no-repeat; background-size:cover;">
                         <h2>Cobertura</h2>
                     </div>
                 </a>
@@ -104,8 +102,7 @@
 
             <article class="col-12 col-md-6 col-lg-4 main_list_group_items-item mb-4">
                 <a href="#">
-                    <div class="d-flex align-items-center justify-content-center"
-                        style="background: url('assets/images/home/alto_padrao_1.jpg') no-repeat; background-size:cover;">
+                    <div class="d-flex align-items-center justify-content-center" style="background: url('assets/images/home/alto_padrao_1.jpg') no-repeat; background-size:cover;">
                         <h2>Alto Padrão</h2>
                     </div>
                 </a>
@@ -113,8 +110,7 @@
 
             <article class="col-12 col-md-6 col-lg-4 main_list_group_items-item mb-4">
                 <a href="#">
-                    <div class="d-flex align-items-center justify-content-center"
-                        style="background: url('assets/images/home/de_frente_pro_mar_original.jpg') no-repeat; background-size:cover;">
+                    <div class="d-flex align-items-center justify-content-center" style="background: url('assets/images/home/de_frente_pro_mar_original.jpg') no-repeat; background-size:cover;">
                         <h2>De Frente para o Mar</h2>
                     </div>
                 </a>
@@ -122,8 +118,7 @@
 
             <article class="col-12 col-md-6 col-lg-4 main_list_group_items-item mb-4">
                 <a href="#">
-                    <div class="d-flex align-items-center justify-content-center"
-                        style="background: url('assets/images/home/condominio_fechado_1.jpg') no-repeat; background-size:cover;">
+                    <div class="d-flex align-items-center justify-content-center" style="background: url('assets/images/home/condominio_fechado_1.jpg') no-repeat; background-size:cover;">
                         <h2>Condomínio Fechado</h2>
                     </div>
                 </a>
@@ -131,8 +126,7 @@
 
             <article class="col-12 col-md-6 col-lg-4 main_list_group_items-item mb-4">
                 <a href="#">
-                    <div class="d-flex align-items-center justify-content-center"
-                        style="background: url('assets/images/home/compacto_1.jpg') no-repeat; background-size:cover;">
+                    <div class="d-flex align-items-center justify-content-center" style="background: url('assets/images/home/compacto_1.jpg') no-repeat; background-size:cover;">
                         <h2>Compacto </h2>
                     </div>
                 </a>
@@ -140,8 +134,7 @@
 
             <article class="col-12 col-md-6 col-lg-4 main_list_group_items-item mb-4">
                 <a href="#">
-                    <div class="d-flex align-items-center justify-content-center"
-                        style="background: url('assets/images/home/sala_comercial_original.jpg') no-repeat; background-size:cover;">
+                    <div class="d-flex align-items-center justify-content-center" style="background: url('assets/images/home/sala_comercial_original.jpg') no-repeat; background-size:cover;">
                         <h2>Loja e Salas</h2>
                     </div>
                 </a>
